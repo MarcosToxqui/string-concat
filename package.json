@@ -1,6 +1,6 @@
 {
   "name": "string-concat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic package for NodeJS to concatenate string items.",
   "main": "index.js",
   "scripts": {
