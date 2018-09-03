@@ -1,0 +1,26 @@
+{
+  "name": "string-concat",
+  "version": "1.0.0",
+  "description": "Basic package for NodeJS to concatenate string items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcosToxqui/"
+  },
+  "keywords": [
+    "string-concat",
+    "concattenate",
+    "string",
+    "function",
+    "concatenate"
+  ],
+  "author": "Marcos Toxqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcosToxqui/string-concat/issues"
+  },
+  "homepage": "https://github.com/MarcosToxqui/string-concat#readme"
+}
